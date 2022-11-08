@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Nerdino_ReactClientApp/precache-manifest.8f7992decd93dfe673417af80da1c487.js"
+  "/Nerdino_ReactClientApp/precache-manifest.d48a7b1125fd01734379204416c2e366.js"
 );
 
 self.addEventListener('message', (event) => {

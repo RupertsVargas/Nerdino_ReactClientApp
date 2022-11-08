@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "536d0c6ecbc6525b8f75a5434b59e36a",
+    "revision": "a33491fa7e00ee02ab3dbdfa984d49ed",
     "url": "/Nerdino_ReactClientApp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nerdino_ReactClientApp/static/css/2.560b9325.chunk.css"
   },
   {
-    "revision": "0dff344a504c788000d9",
+    "revision": "a2fb027153cfa95c00f8",
     "url": "/Nerdino_ReactClientApp/static/css/main.747e8b17.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nerdino_ReactClientApp/static/js/2.e81e474b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0dff344a504c788000d9",
-    "url": "/Nerdino_ReactClientApp/static/js/main.c6fe502b.chunk.js"
+    "revision": "a2fb027153cfa95c00f8",
+    "url": "/Nerdino_ReactClientApp/static/js/main.cac09249.chunk.js"
   },
   {
     "revision": "4e0e34f265fae8f33b01b27ae29d9d6f",
-    "url": "/Nerdino_ReactClientApp/static/js/main.c6fe502b.chunk.js.LICENSE.txt"
+    "url": "/Nerdino_ReactClientApp/static/js/main.cac09249.chunk.js.LICENSE.txt"
   },
   {
     "revision": "b530f576f9b958cc51ae",
