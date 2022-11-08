@@ -11,6 +11,7 @@ function Counter() {
     // var value = () =>{
     //     console.log(currentCount);
     // }
+    // alert();
     // console.log(localStorage.getItem("items"))
     return (
         <div>
